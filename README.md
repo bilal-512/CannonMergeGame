@@ -12,7 +12,10 @@
 
 ## 📱 Screenshots
 
-![Screenshot_20260405_183305_internshipdemo2](https://github.com/user-attachments/assets/d6c1ba46-5cd6-4fd0-acd9-67d57f11386d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d6c1ba46-5cd6-4fd0-acd9-67d57f11386d" width="300"/>
+   <img src="https://github.com/user-attachments/assets/90758418-ac23-4973-98c1-812252c681fa" width="300"/>
+</p>
 
 
 ---

@@ -150,7 +150,7 @@ PowerUpManager   — power-up activation with coin check
 2. Install **Unity 6** via Unity Hub
 3. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/CannonMergeGame.git
+   git clone https://github.com/bilal-512/CannonMergeGame.git
    ```
 4. In Unity Hub click **Open** and select the cloned folder
 5. Open the scene at `Assets/Scenes/GameScene.unity`

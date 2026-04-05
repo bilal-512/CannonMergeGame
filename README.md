@@ -12,12 +12,8 @@
 
 ## 📱 Screenshots
 
-<!-- Add your screenshots here after uploading them to the repo -->
-<!-- Example: -->
-<!-- ![Gameplay](screenshots/gameplay.png) -->
-<!-- ![Wave](screenshots/wave.png) -->
+![Screenshot_20260405_183305_internshipdemo2](https://github.com/user-attachments/assets/d6c1ba46-5cd6-4fd0-acd9-67d57f11386d)
 
-*Add screenshots by creating a `screenshots/` folder in the repo and uploading your images there.*
 
 ---
 
